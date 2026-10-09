@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Dashboard" },
+    { "path": "/transactions", "title": "Transactions" },
+    { "path": "/transactions/edit/:id", "title": "Edit transaction" },
+    { "path": "/add-transaction", "title": "Add transaction" },
+    { "path": "/analytics", "title": "Analytics" },
+    { "path": "/budgets", "title": "Budgets" },
+    { "path": "/categories", "title": "Categories" },
+    { "path": "/settings", "title": "Settings" }
+  ]
+}
